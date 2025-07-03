@@ -8,3 +8,15 @@ def main():
    plt.show()
 
 main()
+
+##s123
+#ssdsd
+
+print("Hello, world!")
+
+print("Hello, worl22d!")
+print("Hello, world2!")
+
+x = 5
+y = 6
+print(x + y)
