@@ -12,8 +12,6 @@ main()
 ##s123
 #ssdsd
 
-print("Hello, world!")
-
 print("Hello, worl22d!")
 print("Hello, world2!")
 
