@@ -18,6 +18,6 @@ print("Hello, world2!")
 x = 5
 y = 6
 z = 7
-print(x + y + z)
+print(x + y + z + z)
 
 print("Push and Pull Test")
